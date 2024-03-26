@@ -1,3 +1,5 @@
+# 简介
+Cursor 是集成了 GPT-4 的 IDE 工具，目前免费并且无需 API Key，支持 Win、Mac、Linux 平台，可以按要求生成代码，或者让 AI 帮助优化代码，分析代码。Cursor目前已经集成了openai的GPT-4，它或将彻底改变我们写代码的方式。
 # Cursor
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/getcursor/cursor/blob/main/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]() [![](https://dcbadge.vercel.app/api/server/PJEgRywgRy?style=flat&compact=true)](https://discord.gg/PJEgRywgRy)
